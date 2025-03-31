@@ -1,0 +1,3 @@
+[submodule "vertex-nyx"]
+	path = vertex-nyx
+	url = https://github.com/kokushibo-rt/vertex-nyx
